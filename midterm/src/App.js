@@ -8,8 +8,9 @@ import {
 // Styles
 import './App.css';
 
-// Components/pages
+// pages
 import Home from './pages/Home';
+import Header from "./pages/Header";
 
 
 function App() {
